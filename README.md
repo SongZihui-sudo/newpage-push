@@ -1,6 +1,9 @@
 # newpage-push Github-page推送同步 vscode插件
 ---
-> [已发布至应用市场](https://marketplace.visualstudio.com/items?itemName=Wildptr.newpage-push)
+> [version 0.0.1 已发布至应用市场](https://marketplace.visualstudio.com/items?itemName=Wildptr.newpage-push)
+
+中文 [ENGLISH](./ENGLISH.md)
+
 ## Features 特性
 
 一个Vscode插件，让您可以把任意位置上的文件推送到您的Github-page站点。    
@@ -17,6 +20,14 @@
 `NEWPAGE-PUSH:PUSH 推送` 向您推送您的文档     
 `NEWPAGE-PUSH:INIT 初始化` 在默认位置初始化站点的git仓库，便于管理     
 `NEWPAGE-PUSH:REFRESH 刷新` 同步您的站点   
+
+首先可以先初始化`Init`你的站点，之后在任意位置的md文档编辑，  
+
+通过`push`来提交，  
+
+通过`pull`来同步。    
+
+在这过程中你需要输入你的站点域名或者git仓库地址。   
 
 ## Known Issues 问题
 
@@ -41,3 +52,4 @@
 邮箱：1751122876@qq.com
 
 ---
+
