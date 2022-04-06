@@ -2,7 +2,7 @@
 ---
 > [version 0.0.1 released to the app](https://marketplace.visualstudio.com/items?itemName=Wildptr.newpage-push)
 
-[中文](./README.md) ENGLISH
+[中文](https://github.com/SongZihui-sudo/newpage-push/blob/main/README.md) ENGLISH
 
 ## Features attribute
 
