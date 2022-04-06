@@ -8,7 +8,7 @@
 
 一个Vscode插件，让您可以把任意位置上的文件推送到您的Github-page站点。    
  
-![截图](https://pcsdata.baidu.com/thumbnail/bce482881o6eaf8069129e9f1cc29997?fid=3125802318-16051585-64380708584236&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-VrmRHr31VMt9JDiUVeuNk2vZEh4%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=9137752933706920594&dp-callid=0&time=1649235600&bus_no=26&size=c1600_u1600&quality=100&vuk=-&ft=video)
+![截图](https://pcsdata.baidu.com/thumbnail/bce482881o6eaf8069129e9f1cc29997?fid=3125802318-16051585-64380708584236&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-SVVnwqXh2SeaAaluBB7n1C6QfBs%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=9140072664368705748&dp-callid=0&time=1649242800&bus_no=26&size=c1600_u1600&quality=100&vuk=-&ft=video)     
 
 ## Requirements 依赖
 
