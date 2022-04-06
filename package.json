@@ -1,7 +1,11 @@
 {
   "name": "newpage-push",
+	"repository":"https://github.com/SongZihui-sudo/newpage-push",
+	"publisher": "Wildptr",
 	"displayName": "Newpage-push",
 	"description": "随时随地将md文档，push到您的站点",
+	"keywords":["Github","Githubpage","blog"],
+	"icon":"upload.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.66.0"

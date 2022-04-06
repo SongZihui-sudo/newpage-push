@@ -1,5 +1,6 @@
 # newpage-push Github-page推送同步 vscode插件
 ---
+> [已发布至应用市场](https://marketplace.visualstudio.com/items?itemName=Wildptr.newpage-push)
 ## Features 特性
 
 一个Vscode插件，让您可以把任意位置上的文件推送到您的Github-page站点。    
@@ -40,4 +41,3 @@
 邮箱：1751122876@qq.com
 
 ---
-
