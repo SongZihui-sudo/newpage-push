@@ -2,7 +2,7 @@
 ---
 > [version 0.0.1 已发布至应用市场](https://marketplace.visualstudio.com/items?itemName=Wildptr.newpage-push)
 
-中文 [ENGLISH](./ENGLISH.md)
+中文 [ENGLISH](https://github.com/SongZihui-sudo/newpage-push/blob/main/ENGLISH.md)
 
 ## Features 特性
 
