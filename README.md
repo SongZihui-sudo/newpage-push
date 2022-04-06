@@ -1,4 +1,4 @@
-# newpage-push Github-page推送同步 README
+# newpage-push Github-page推送同步 vscode插件
 ---
 ## Features 特性
 
